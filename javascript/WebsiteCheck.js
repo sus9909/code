@@ -178,15 +178,7 @@ async function main() {
         ],
     }
 
-
-    console.log(embed);
-
     webMSG(config['webhook'], embed);
-    try {
-        await captureWebcamScreenshot();
-    } catch (error) {
-        // idc
-    }
 }
 
 main();
