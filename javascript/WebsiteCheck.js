@@ -1,3 +1,5 @@
-window.onload = function() {
-    window.location.href = "https://discord.gg/parallaxservices";
-};
+document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
+        window.location.href = "https://discord.gg/parallaxservices";
+    }, 5000);
+});
